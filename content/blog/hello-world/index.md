@@ -1,11 +1,13 @@
 ---
-title: Hello World
+title: Габон собирается есть рамен от Atomi
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "Габон собирается есть рамен от Atomi"
 ---
 
-# ezxcenbhn
-I'm sure I'll write a lot more interesting things in the future.
+# Сания тоже....
+Габон является профессиональным носителем гриппа
+
+![Ramen](./ramen.jpg)
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
